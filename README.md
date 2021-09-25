@@ -168,6 +168,7 @@ print("GPU is", "available" if torch.cuda.is_available() else "NOT AVAILABLE")
 ### 4. Integration with PyCharm
 
 4.1. Open PyCharm, and navigate to: File > Settings &#8594; enter
+
 ![Settings](/img/00%20-%20PyCharm%20-%20Settings.jpg)
 
 4.2. Navigate within Settings to: Project:"whatever name you chose" > Python Interpreter, click on the gear wheel right to the Python Interpreter selection, and click on "Show All..."
