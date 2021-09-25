@@ -1,4 +1,4 @@
-# A Guide to set up PyTorch 1.9.1 w. Python to use within PyCharm on your Windows machine
+# A Guide to set up PyTorch 1.9.1 in Conda to use within PyCharm on your Windows machine
 
 ## Disclaimer, the entire setup takes quite some time - partially depending on your internet and HW speed! Furthermore, this setup has been tested with an NVIDIA CUDA Enabled GPU in place
 
