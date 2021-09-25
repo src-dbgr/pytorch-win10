@@ -18,7 +18,7 @@ Note: You need an NVIDIA Account to download the following (I work with cudnn-11
 [Download PyCharm Community](https://www.jetbrains.com/de-de/pycharm/download/#section=windows)
 
 ### 3.
-## The following instruction part is taken from Jeff Heaton's [t81_558_deep_learning class](https://github.com/jeffheaton/t81_558_deep_learning), all credits go out to him! I have slightly adjusted it to my needs and to the currently available PyTorch version
+## The following instruction part "3." is taken from Jeff Heaton's [t81_558_deep_learning class](https://github.com/jeffheaton/t81_558_deep_learning), all credits go out to him! I have slightly adjusted it to my needs and to the currently available PyTorch version. After that I elaborate in 4. and 5. how to integrate it with PyCharm and test CUDA Core utilization
 
 ## NOTE
 
